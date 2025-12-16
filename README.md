@@ -1,44 +1,60 @@
-# 👵 ROOTED Seniors — Senior Services, Care Resources & Community Support
+# 🏋️ ROOTED Fitness — Fitness Discovery & Local Training Events
 
-A dedicated vertical serving seniors and aging populations within the ROOTED OS.
+A discovery-first fitness vertical inside the ROOTED OS.
+
+---
 
 ## 🎯 Purpose
+
 Includes:
-- Senior centers
-- Adult day programs
-- Caregiver resources
-- Accessibility & mobility programs
-- Community meal supports
-- Health & wellness education
+- Gyms and fitness centers
+- Yoga studios
+- CrossFit and strength training programs
+- Running clubs and training groups
+- Park workouts and outdoor training areas
+- Race events and sign-up information (when applicable)
+- Community fitness education (non-medical)
 
-ROOTED Seniors is NOT:
-- A medical service platform
-- A senior housing marketplace
-- A private caregiver hiring system
+This vertical can operate as:
+- discovery-only, and/or
+- discovery + events (no required volunteer layer)
 
-It is a **community support vertical** focused on dignity, respect, and accessibility.
+---
+
+## 🚫 What This Is NOT
+
+ROOTED Fitness is NOT:
+- A medical platform
+- A supplement marketplace
+- A “before/after” body transformation ranking engine
+- A surveillance or biometric tracking system
+- A predatory ad-tech funnel
+
+---
 
 ## 🧭 Vertical Identity
+
 This vertical is:
-- 💙 Compassion-centered
-- 🔐 Highly governed
-- 🧒 Kids Mode separated by design
-- 🚫 No ads or commercial ranking
-- 🧭 Public-good only
+- 💪 Health-positive (non-clinical)
+- 🧒 Kids Mode-safe by design (surface-limited)
+- 🔐 Highly governed discovery
+- 🧭 Non-political by default
+
+---
 
 ## 📁 Repository Scope
+
 Includes:
-- Senior services UI
-- Educational cards
-- Caregiver support flows
-- Accessibility guidance
+- Fitness discovery UI
+- Fitness event pages (if enabled)
+- Safety-forward listings and guidance
+- Optional “what’s happening this weekend” style discovery prompts (non-invasive)
 
 Does NOT include:
-- Medical billing
-- Hiring systems
-- Schema or RLS edits
+- Schema/RLS edits
+- Medical advice features
+- Biometric tracking
 
-## 🔐 Backend Authority
-As with all verticals:
-- rooted-core  
-- rooted-platform/governance  
+Backend authority:
+- `rooted-core`
+- `rooted-platform/governance/`
